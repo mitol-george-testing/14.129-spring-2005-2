@@ -1,0 +1,38 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Game Theory"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Political Economy"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Microeconomics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "28136b11-e626-2b3d-80c4-89640134591f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Advanced Contract Theory",
+  "course_description": "This course focuses on recent developments in contract theory. Topics include: advanced models of moral hazard, adverse selection, mechanism design and incomplete contracts with applications to theory of the firm, organizational design, and financial structure.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.129",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes",
+    "Projects"
+  ],
+  "title": "Course Metadata"
+}
